@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<meta http-equiv="refresh" content="3;URL=https://angelsdemos.github.io/kaganhazalkocdemir/">
+<meta http-equiv="refresh" content="1;URL=https://angelsdemos.github.io/kaganhazalkocdemir/">
